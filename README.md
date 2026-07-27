@@ -1,4 +1,8 @@
-#
+# About
+
+WebApp to demonstrate the Dijkstra Algorithm
+
+View the WebApp [here](https://samuel-risner.github.io/dijkstra/)
 
 # Dev notes
 
